@@ -1,3 +1,4 @@
+﻿# KR2: chemodanov
 import os
 import socket
 
